@@ -1,5 +1,5 @@
 (function (factory) {
-	// Module systems magic dance.
+	/ / Module systems magic dance.
 
 	if (typeof require === "function" && typeof exports === "object" && typeof module === "object") {
 		// CommonJS or Node: hard-coded dependency on "knockout"
